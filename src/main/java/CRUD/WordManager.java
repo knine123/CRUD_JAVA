@@ -21,7 +21,7 @@ public class WordManager {
                 break;
             }
             else if(menu == 1){//전체 보기
-
+                wordCRUD.listAll();
             }
             else if(menu == 2){//수준별 보기
 
