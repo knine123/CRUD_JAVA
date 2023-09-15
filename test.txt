@@ -1,0 +1,29 @@
+3|Superintendent|관리자, 감독관, 감독
+1|Electric|전기의, 전기를 생산하는
+2|Equipment|장비, 용품
+1|Pole|기둥, 장대
+1|Formerly|이전에, 예전에
+2|Executive|경영 간부, 임원
+1|Assure|안심시키다, 확신시키다
+2|Embarrassment|당황, 난처함
+2|Publicity|명성, 평판, 널리 알려짐, 공표
+3|Subordinate|부하의, 하급자의
+2|Utility|공익사업(체), 유용성
+1|Lone|혼자인, 단독의, 외딴
+1|Glance|흘긋 보다, 대강 훑어보다
+2|Conscious|의식하는, 자각하는
+2|Stroll|거닐다, 산책하다
+1|Stock|주식, 재고
+2|Eye-opener|눈이 휘둥그레질 만한 사건, 놀라운 경험
+1|Graceful|우아한
+2|Seagull|갈매기
+1|Tightly|단단히
+2|Webbed|물갈퀴가 있는
+1|Thoughtlessly|생각 없이
+1|Discard|버리다
+1|Unfortunate|불운한
+1|Branch|나뭇가지
+1|Trim|다듬다
+3|Crouch|쪼그리고 앉다
+2|Proclaim|공언하다, 선포하다
+1|Apple|사과
