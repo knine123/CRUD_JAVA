@@ -19,6 +19,7 @@ public class WordManager {
         while(true) {
             int menu = selectMenu();
             if(menu==0) {//나가기
+                System.out.println("\n프로그램 종료! 다음에 만나요~\n");
                 break;
             }
             else if(menu == 1){//전체 보기
