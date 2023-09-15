@@ -15,6 +15,7 @@ public class WordManager {
     }
     public void start(){
         System.out.println("*** 영단어 마스터 ***\n");
+        wordCRUD.loadFile();
         while(true) {
             int menu = selectMenu();
             if(menu==0) {//나가기
@@ -24,23 +25,23 @@ public class WordManager {
                 wordCRUD.listAll();
             }
             else if(menu == 2){//수준별 보기
-
+                wordCRUD.searchLevel();
             }
             else if(menu == 3){//검색
-
+                wordCRUD.searchWord();
             }
             else if(menu == 4){//추가
-               wordCRUD.addWord();
+               wordCRUD.addItem();
 
             }
             else if(menu == 5){//단어 수정
-
+                wordCRUD.updateItem();
             }
             else if(menu == 6){//삭제
-
+                wordCRUD.deleteItem();
             }
             else if(menu == 7){//저장
-
+                wordCRUD.saveFile();
             }
             else{
 
