@@ -95,11 +95,11 @@ public class WordCRUD implements ICRUD{
                 int c2=0;
 
                 for(int s=0; s<c; s++){
-                    if(keyword.length() == word2.length() &&(keyword.charAt(s)==word2.charAt(s))){
+                    if(keyword.length() == word2.length() && keyword.charAt(s)==word2.charAt(s)){
                         c2++;
                     }
                 }
-                if(c2>=c-2){
+                if(keyword.length() == word2.length() && c2>=c-2){
                     System.out.print((j+1)+" ");
                     System.out.println(list.get(i).toString());
                     j++;
